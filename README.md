@@ -1,2 +1,2 @@
 # rpi-cpu-temp
-Show Raspberry Pi CPU speed and temperature
+Show Raspberry Pi CPU speed and temperature.
